@@ -1,0 +1,43 @@
+.panel-footer{width:100%;float:left;}
+.panel-footer .btn{margin-right:5px;}
+#content.bootstrap h3:not(.modal-title){margin:17px 0 8.5px;}
+#ba_eu_cookie_law{
+	width:100%;
+	float: left;
+	border: solid 1px #e6e6e6;
+	border-radius: 5px;
+	-webkit-box-shadow: rgba(0,0,0,0.1) 0 2px 0,#fff 0 0 0 3px inset;
+	box-shadow: rgba(0,0,0,0.1) 0 2px 0,#fff 0 0 0 3px inset;
+}
+.bootstrap.panel{float:left;width:100%;}
+#custom_colors_section{
+	padding:0 15px;
+}
+#custom_colors_section .color {
+  border: 1px solid rgb(208, 208, 208);
+  width: 100px;
+  height: 25px;
+  border-radius: 3px;
+  padding: 0 5px;
+}
+#custom_colors_section .control-group{
+	width: 36%;
+	float: left;
+	margin: 5px 0;
+}
+#custom_colors_section .control-label{
+		float: left;
+	width: 265px;
+	padding-top: 5px;
+	text-align: right;
+	margin-right: 10px;
+}
+#custom_colors_section .control-group .controls{float:left;}
+#ba_eu_cookie_law .help-block{
+	font-style: italic;
+	width: 153%;
+	float: left;
+	margin-left: 113px;
+	font-weight: 400;
+}
+#custom_colors_section input{  margin: 4px 0 0;}
